@@ -1,0 +1,10 @@
+If you split a s
+a trin
+g a with 
+a regex, you 
+a essentially tell whe
+re the a string should be cut.
+This necessarily cuts a
+way what you match with 
+the regex. a c
+uts away.
